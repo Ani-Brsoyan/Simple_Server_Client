@@ -1,5 +1,3 @@
-
-#include <string>
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/socket.h>
@@ -15,6 +13,7 @@
 #include <fcntl.h>
 
 #include <iostream>
+#include <string>
 #include <fstream>
 
 int main(int argc, char*argv[]) 
